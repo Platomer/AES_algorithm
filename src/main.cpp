@@ -1,3 +1,11 @@
 #include <iostream>
 
-//im starting it!!
+void key_expansion()
+{
+
+}
+
+int main()
+{
+    std::cout << " hello world" << std::endl;
+}
